@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name XU208-128-QF48-I10)(type Legacy)(uri C:/Users/micke/workspace/XMOS-HEAD-BOARD/KiCad/Libs/XU208-128-QF48-I10.lib)(options "")(descr ""))
+  (lib (name AMIS30543-SchDoc-cache)(type Legacy)(uri C:/Users/micke/workspace/XMOS-HEAD-BOARD/KiCad/Libs/AMIS30543-SchDoc-cache.lib)(options "")(descr ""))
+  (lib (name tps560430)(type Legacy)(uri C:/Users/micke/workspace/XMOS-HEAD-BOARD/KiCad/Libs/tps560430.lib)(options "")(descr ""))
 )

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS560430
+D TPS560430 SIMPLE SWITCHER® 4-V to 36-V, 600-mA Synchronous Step-Down Converter
+K Voltage regulator switching buck fixed output analog
+F http://www.ti.com/lit/ds/symlink/tps560430.pdf
+$ENDCMP
+#
+#End Doc Library
